@@ -7,6 +7,9 @@ This is a REST based interface which uses publicly available CoWIN APIs and prov
 # Pre-requisites
 Java 11 and Spring Boot 2.6.4+
 
+# Request and Response Type
+Json
+
 # Note
 This project is restricted to India based servers only due to its underlying API accessibility.
  
