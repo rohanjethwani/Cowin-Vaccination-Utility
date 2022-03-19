@@ -1,4 +1,4 @@
-# cowin (Winning over Covid-19)
+# CoWin (Winning over Covid-19)
 
 This is a REST based interface which uses publicly available CoWIN APIs and provides information to users. This is in initial stage where following features are available.
 
